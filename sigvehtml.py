@@ -110,7 +110,7 @@ def footer():
 """
 
 def educated_guess_at_image():
-    return 'http://pensivetoaster.com/wp-content/uploads/2013/05/elephant-banner.jpg'
+    return 'http://pensivetoaster.com/wp-content/uploads/2013/05/elephant-banner.jpg' # I think you should change the URL of this image, because that site isn't available anymore
 
 
 def main():
